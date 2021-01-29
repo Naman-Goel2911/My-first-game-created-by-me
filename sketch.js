@@ -25,7 +25,7 @@ function preload()
 
   portalAnimation = loadAnimation("Images/portalimage1.png", "Images/portalimage2.png", "Images/portalimage3.png", "Images/portalimage4.png");
 
-  islandImage = loadImage("Images/islandimage.jpg");
+  islandImage = loadImage("Images/islandImage.jpg");
 
   heartImage = loadImage("Images/heart.png");
 
